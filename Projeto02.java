@@ -1,4 +1,4 @@
-package maratonajava.introducao;
+package com.viniciusmotta.banking;
 
 public class Projeto02 {
     public static void main(String[] args) {
